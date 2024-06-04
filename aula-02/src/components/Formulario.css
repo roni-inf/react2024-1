@@ -1,0 +1,29 @@
+.formulario {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.formulario label {
+  text-align: left;
+  display: block;
+}
+
+.formulario input {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.botao{
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}

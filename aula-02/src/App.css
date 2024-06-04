@@ -1,0 +1,10 @@
+.frase {
+  color: #777;
+  font-size: 2em;
+}
+
+.corpo {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+}
