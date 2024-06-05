@@ -1,6 +1,5 @@
-import "./App.css";
-import Formulario from "./components/Formulario";
-import Header from "./components/Header";
+import Git from "./components/Git";
+import Login from "./components/Login";
 
 function App() {
   const texto = {
@@ -16,11 +15,15 @@ function App() {
       <Evento/>
       <Estados/>
       <Texto/>
-      */}
+      
       <Header titulo="Cálculo do IMC" />
       <div className="corpo">
         <Formulario />
       </div>
+      
+      <Git/>
+      */}
+      <Login/>
     </div>
   );
 }
